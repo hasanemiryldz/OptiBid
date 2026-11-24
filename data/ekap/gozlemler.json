@@ -1,0 +1,576 @@
+[
+  {
+    "ikn": "2025/1065970",
+    "ad": "80 gr A4 Fotokopi Kağıdı",
+    "kurum": "İzmir Cumhuriyet Başsavcılığı ADALET BAKANLIĞI BAKAN YARDIMCILIKLARI",
+    "tur": "Mal",
+    "kategori": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "sonuc": {
+      "dosya": "2025_1065970.png",
+      "sha256": "cbb32bb2ba4a2813c670655e87852237dbadbd26ad01557cecc85255fa70312c",
+      "konum": "Sözleşme Bedeli / Sözleşme Tarihi",
+      "fiyat": "3085200",
+      "tarih": "2025-09-18",
+      "para": "TRY",
+      "kayit_tarihi": "2026-11-18",
+      "yuklenici": "VE-GE HASSAS KAĞIT VE YAPIŞTIRICI BANT SANAYİİ VE TİCARET ANONİM ŞİRKETİ"
+    },
+    "zip": {
+      "dosya": "kaynaklar/ihaleler/ihale_dokumani_2025_1065970.zip",
+      "sha256": "cbe475be68b01a6da93f7149760cb9abb776d7009aca32fb5155a5b386d976fb"
+    },
+    "belgeler": [
+      {
+        "dosya": "12541122_IhaleDokumani.zip!ihale_dokumani_2025-1065970/2025-1065970_idari_sartname.doc",
+        "sha256": "dd46c630fe03e6d8d5d3761f186c69480131226230384627e921e3e7036603bf",
+        "metin_sha256": "32f41bcf3b6e437b3a0522d15a1d29ac4771f1fdf3cf990fed1254c42dd701d9",
+        "ikn_satir": 27
+      },
+      {
+        "dosya": "12541122_IhaleDokumani.zip!ihale_dokumani_2025-1065970/2025-1065970_sozlesme_tasarisi.doc",
+        "sha256": "13235d22fa82427973b812fb589c032427dd8eaab2d12b6743fde82dbf6cfd18",
+        "metin_sha256": "c014e826dd87099283c968d64c55e258d7ddc31a36e54b3289f74de7ed0f9d20",
+        "ikn_satir": 3
+      },
+      {
+        "dosya": "12541122_IhaleDokumani.zip!ihale_dokumani_2025-1065970/standartFormlar/2025_1065970_Birim_Fiyat_Teklif_Cetveli_KIK0015_5B_EKAP_M.docx",
+        "sha256": "9d89ee38cbbc86557989f3546e98192d6be69e233f04c12e926d7bdeae390bb7",
+        "metin_sha256": "18a3743a2504ac7bb00adbd92042eb0381903396b3ea4d4e98ae7ec20297b8da",
+        "ikn_satir": 2
+      }
+    ],
+    "teknik_durum": "URUN_DOGRULANDI",
+    "kaynak_kokeni": "Kullanıcının sağladığı EKAP sonuç görüntüsü ve aynı İKN’nin belge paketi"
+  },
+  {
+    "ikn": "2025/1531711",
+    "ad": "A4 FOTOKOPİ KAĞIDI",
+    "kurum": "ANKARA CUMHURİYET BAŞSAVCILIĞI",
+    "tur": "Mal",
+    "kategori": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "sonuc": {
+      "dosya": "2025_1531711.png",
+      "sha256": "4e0b8512e4a1a9946cdc307afb19b762864a72c7b69455b965ecf1d9dab472ed",
+      "konum": "Sözleşme Bedeli / Sözleşme Tarihi",
+      "fiyat": "10107180",
+      "tarih": "2025-11-18",
+      "para": "TRY",
+      "kayit_tarihi": "2026-11-17",
+      "yuklenici": "VE-GE HASSAS KAĞIT VE YAPIŞTIRICI BANT SANAYİİ VE TİCARET ANONİM ŞİRKETİ"
+    },
+    "zip": {
+      "dosya": "kaynaklar/ihaleler/ihale_dokumani_2025_1531711.zip",
+      "sha256": "5a63c7a3b3c5ba2dc51404989697328cf5417f6be9f5b15c4c813df97cb0fa25"
+    },
+    "belgeler": [
+      {
+        "dosya": "13030154_IhaleDokumani.zip!ihale_dokumani_2025-1531711/2025-1531711_idari_sartname.doc",
+        "sha256": "557138b409dca5faed50d92603e722bcf79357fa3523689ab828804f5f6909a8",
+        "metin_sha256": "ca055acb6621c1c59b508fc8eff190ac9035bdcf15973e84b974db4765c625a9",
+        "ikn_satir": 25
+      },
+      {
+        "dosya": "13030154_IhaleDokumani.zip!ihale_dokumani_2025-1531711/2025-1531711_sozlesme_tasarisi.doc",
+        "sha256": "57b50712ad0121491a5e65e2ba107467bff6ea83c3cc11c885e71419999bdf49",
+        "metin_sha256": "866e6e75b72b9bc90e9541dcbdc4edf3df7e2783881d5264829ce84e64179581",
+        "ikn_satir": 3
+      }
+    ],
+    "teknik_durum": "KOSULLU",
+    "kaynak_kokeni": "Kullanıcının sağladığı EKAP sonuç görüntüsü ve aynı İKN’nin belge paketi"
+  },
+  {
+    "ikn": "2025/1575652",
+    "ad": "A4 Fotokopi Kağıdı(80gr/m2-TSE Belgeli)",
+    "kurum": "SGK BURSA İL MÜDÜRLÜĞÜ",
+    "tur": "Mal",
+    "kategori": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "sonuc": {
+      "dosya": "2025_1575652.png",
+      "sha256": "03dd0d34436752cb6a36f86497b5c8823a89e0257321db1b5263eead6fcfba90",
+      "konum": "Sözleşme Bedeli / Sözleşme Tarihi",
+      "fiyat": "2322500",
+      "tarih": "2025-11-07",
+      "para": "TRY",
+      "kayit_tarihi": "2026-11-17",
+      "yuklenici": "VE-GE HASSAS KAĞIT VE YAPIŞTIRICI BANT SANAYİİ VE TİCARET ANONİM ŞİRKETİ"
+    },
+    "zip": {
+      "dosya": "kaynaklar/ihaleler/ihale_dokumani_2025_1575652.zip",
+      "sha256": "910668a2491b8d4e133b7a8fa830abb487b5cbf54851b43d76785605fe1468d1"
+    },
+    "belgeler": [
+      {
+        "dosya": "13079984_IhaleDokumani.zip!ihale_dokumani_2025-1575652/2025-1575652_idari_sartname.doc",
+        "sha256": "45efa1b19c196d2b9feb2ce8b285902e9d1d0acd01f11a554a4cd656be644736",
+        "metin_sha256": "a5c12e5bfa2caba0d51a1d59b9943048d6da44bc99d0a1753b887305497cc068",
+        "ikn_satir": 23
+      },
+      {
+        "dosya": "13079984_IhaleDokumani.zip!ihale_dokumani_2025-1575652/2025-1575652_sozlesme_tasarisi.doc",
+        "sha256": "e17e59c2eba3131337e93b3338d91db8c73dbad7c528689051aad3239f6ffd6b",
+        "metin_sha256": "ff7ac2631ad0d3f3cbe4f8491e13740747c7aadff5a7a806f795005684075674",
+        "ikn_satir": 3
+      }
+    ],
+    "teknik_durum": "URUN_DOGRULANDI",
+    "kaynak_kokeni": "Kullanıcının sağladığı EKAP sonuç görüntüsü ve aynı İKN’nin belge paketi"
+  },
+  {
+    "ikn": "2025/1890436",
+    "ad": "A4 Fotokopi Kağıdı Alımı İşi",
+    "kurum": "Tapu ve Kadastro XI. (Kayseri) Bölge Müdürlüğü",
+    "tur": "Mal",
+    "kategori": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "sonuc": {
+      "dosya": "2025_1890436.png",
+      "sha256": "335309f5ea3f543eb17df427d4cfe94cb9fe1b0b003962980c3d9ac5edc20460",
+      "konum": "Sözleşme Bedeli / Sözleşme Tarihi",
+      "fiyat": "1436100",
+      "tarih": "2025-12-17",
+      "para": "TRY",
+      "kayit_tarihi": "2026-11-19",
+      "yuklenici": "MOPAK KAĞIT KARTON SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+    },
+    "zip": {
+      "dosya": "kaynaklar/ihaleler/ihale_dokumani_2025_1890436.zip",
+      "sha256": "7320fde8cf614559ff3f4644b411f4a2a7cc15d47081b540e00971b3efc02e16"
+    },
+    "belgeler": [
+      {
+        "dosya": "13407370_IhaleDokumani.zip!ihale_dokumani_2025-1890436/2025-1890436_idari_sartname.doc",
+        "sha256": "e7e3cf042720dc1ecdfc7aab198c396c9f13823928502311d1ef7aab6f85987b",
+        "metin_sha256": "66e5e471c49b812f5461f4729634a60a140ab0caa2b117d13dda12fb061cda8c",
+        "ikn_satir": 20
+      },
+      {
+        "dosya": "13407370_IhaleDokumani.zip!ihale_dokumani_2025-1890436/2025-1890436_sozlesme_tasarisi.doc",
+        "sha256": "36a2617ff87a3e033574889077281767582b70a614145083d1ba243fc786cdb1",
+        "metin_sha256": "560d06768e141528fe205335e9abc2943ec445eb8980c7a96fc32415c831125b",
+        "ikn_satir": 3
+      }
+    ],
+    "teknik_durum": "URUN_DOGRULANDI",
+    "kaynak_kokeni": "Kullanıcının sağladığı EKAP sonuç görüntüsü ve aynı İKN’nin belge paketi"
+  },
+  {
+    "ikn": "2025/1935919",
+    "ad": "A4 FOTOKOPİ KAĞIDI ALIMI",
+    "kurum": "İdari ve Mali İşler Daire Başkanlığı YÜKSEKÖĞRETİM KURUMLARI TRAKYA ÜNİVERSİTESİ",
+    "tur": "Mal",
+    "kategori": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "sonuc": {
+      "dosya": "2025_1935919.png",
+      "sha256": "5ca92935b0167c5deba8dd680dc10bf851337574e88b0c209bd7be90625ccb3f",
+      "konum": "Sözleşme Bedeli / Sözleşme Tarihi",
+      "fiyat": "899000",
+      "tarih": "2025-12-15",
+      "para": "TRY",
+      "kayit_tarihi": "2026-11-19",
+      "yuklenici": "ALBA GROUP AMBALAJ İÇ VE DIŞ TİCARET LİMİTED ŞİRKETİ"
+    },
+    "zip": {
+      "dosya": "kaynaklar/ihaleler/ihale_dokumani_2025_1935919.zip",
+      "sha256": "742b64887bca13d20d401629bd4bb4161cfc70f38250e311998b45f3392c5b32"
+    },
+    "belgeler": [
+      {
+        "dosya": "13454312_IhaleDokumani.zip!ihale_dokumani_2025-1935919/2025-1935919_idari_sartname.doc",
+        "sha256": "3e7ef755b8c1c10f51269e96c29f04cb6a73ab274ebeaee4361d304c2af86f7a",
+        "metin_sha256": "c23e42c34cee3b846dd2189d19d9df4f885a7d62281cd4ee2812f59bdd7cd79c",
+        "ikn_satir": 20
+      },
+      {
+        "dosya": "13454312_IhaleDokumani.zip!ihale_dokumani_2025-1935919/2025-1935919_sozlesme_tasarisi.doc",
+        "sha256": "e7e577656356635cd4406df0588f65069c445bd63badbce2c36a8b8c6ddac0e3",
+        "metin_sha256": "f3a463a21be4d7191828d0e367c5d1d5f86bd1fc3e09dbc986851da13945e7b5",
+        "ikn_satir": 3
+      }
+    ],
+    "teknik_durum": "KOSULLU",
+    "kaynak_kokeni": "Kullanıcının sağladığı EKAP sonuç görüntüsü ve aynı İKN’nin belge paketi"
+  },
+  {
+    "ikn": "2025/452237",
+    "ad": "A4 Fotokopi Kağıdı (80 gr)",
+    "kurum": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ) Genel Müdürlüğü",
+    "tur": "Mal",
+    "kategori": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "sonuc": {
+      "dosya": "2025_452237.png",
+      "sha256": "e148b7ffb4fe924ebff6e32cb4335d0c1004b89288cbfaef0e882eb4a040e195",
+      "konum": "Sözleşme Bedeli / Sözleşme Tarihi",
+      "fiyat": "2294750",
+      "tarih": "2025-06-02",
+      "para": "TRY",
+      "kayit_tarihi": "2026-11-18",
+      "yuklenici": "KIZIL ELMA ORGANİK TARIM ÜRÜNLERİ İTHALAT İHRACAT VE TİCARET LİMİTED ŞİRKETİ"
+    },
+    "zip": {
+      "dosya": "kaynaklar/ihaleler/ihale_dokumani_2025_452237.zip",
+      "sha256": "108d80055082ae548d622c100fab1eb4e6836e798f63367f897ae28d7bccde9c"
+    },
+    "belgeler": [
+      {
+        "dosya": "11905253_IhaleDokumani.zip!ihale_dokumani_2025-452237/2025-452237_idari_sartname.doc",
+        "sha256": "0b28d37dadb2def844f9066f7ff07b8bb1079d6e7396b4b1d3a46650c80e81e0",
+        "metin_sha256": "31cddfaaed756ddb853f91c29f72ef85c18177cc66878053d45fd1e94032b47d",
+        "ikn_satir": 23
+      },
+      {
+        "dosya": "11905253_IhaleDokumani.zip!ihale_dokumani_2025-452237/2025-452237_sozlesme_tasarisi.doc",
+        "sha256": "576f11b0f4e3c50c65cf04df4eb639ca3ab2ac2e84ddead4c7813d878a1bbc44",
+        "metin_sha256": "ef72b6ea808ee5bd8a7877c8602fa134fab7940f8595d0b634dde1f259c7e00d",
+        "ikn_satir": 3
+      },
+      {
+        "dosya": "11905253_IhaleDokumani.zip!ihale_dokumani_2025-452237/standartFormlar/2025_452237_Birim_Fiyat_Teklif_Cetveli_KIK0015_5B_EKAP_M.docx",
+        "sha256": "4150dbf2508d0434721a721c9995f718766347270ee4b05b85d4bd029e0dcc11",
+        "metin_sha256": "8421e5bf6a8973c68c4a59a2c4ca8aa9ced30d03b72478851f021f1a72a4b999",
+        "ikn_satir": 2
+      }
+    ],
+    "teknik_durum": "AYRI_EKSILTME",
+    "kaynak_kokeni": "Kullanıcının sağladığı EKAP sonuç görüntüsü ve aynı İKN’nin belge paketi"
+  },
+  {
+    "ikn": "2025/458694",
+    "ad": "80 gr/m² A4 Fotokopi Kağıdı",
+    "kurum": "İzmir Cumhuriyet Başsavcılığı",
+    "tur": "Mal",
+    "kategori": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "sonuc": {
+      "dosya": "2025_458694.png",
+      "sha256": "0661360a6f0e909cc6c8d66615a708ffdba728f854b519dee8fc45443a83ce90",
+      "konum": "Sözleşme Bedeli / Sözleşme Tarihi",
+      "fiyat": "3146400",
+      "tarih": "2025-05-23",
+      "para": "TRY",
+      "kayit_tarihi": "2026-11-19",
+      "yuklenici": "VE-GE HASSAS KAĞIT VE YAPIŞTIRICI BANT SANAYİİ VE TİCARET ANONİM ŞİRKETİ"
+    },
+    "zip": {
+      "dosya": "kaynaklar/ihaleler/ihale_dokumani_2025_458694.zip",
+      "sha256": "8ee71aff2a84dc5db7b61c1e0c975337557318a0f1392380669f01dfb6106ea8"
+    },
+    "belgeler": [
+      {
+        "dosya": "11911960_IhaleDokumani.zip!ihale_dokumani_2025-458694/2025-458694_idari_sartname.doc",
+        "sha256": "231c976fa06f740407f99bdbf85a5da05013f0f2b056f99e8129cf3cc3d327be",
+        "metin_sha256": "3af197d5733ec6cbcc60df7a5986393843f5d4f56cbf05daf2cb2c80b269f8af",
+        "ikn_satir": 27
+      },
+      {
+        "dosya": "11911960_IhaleDokumani.zip!ihale_dokumani_2025-458694/2025-458694_sozlesme_tasarisi.doc",
+        "sha256": "f9edb1c66599ac8cae83ec971bc78af9207b6c33ac1c2dec42f1c708f55f5c4a",
+        "metin_sha256": "4fc2028ab2067274bf10a56e7da0b315c67cb5791186c0ddbd36f87949bf3e99",
+        "ikn_satir": 3
+      },
+      {
+        "dosya": "11911960_IhaleDokumani.zip!ihale_dokumani_2025-458694/standartFormlar/2025_458694_Birim_Fiyat_Teklif_Cetveli_KIK0015_5B_EKAP_M.docx",
+        "sha256": "0dfa88cdb8f41c3ce4dc9be86b72a0045850cbbadd622629c83d704c62c609f0",
+        "metin_sha256": "6cce859effe3f39a9016f555f15fbcf976a88c2f1e3ed525f1f309deb362bbfb",
+        "ikn_satir": 2
+      }
+    ],
+    "teknik_durum": "URUN_DOGRULANDI",
+    "kaynak_kokeni": "Kullanıcının sağladığı EKAP sonuç görüntüsü ve aynı İKN’nin belge paketi"
+  },
+  {
+    "ikn": "2025/810909",
+    "ad": "A4 Fotokopi Kağıdı",
+    "kurum": "İstanbul Valiliği Yatırım İzleme Ve Koordinasyon Başkanlığı",
+    "tur": "Mal",
+    "kategori": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "sonuc": {
+      "dosya": "2025_810909.png",
+      "sha256": "aacd9944effcca9498b9cf5cee04f055566e6df5b2ab01478dc588f94faf6b0d",
+      "konum": "Sözleşme Bedeli / Sözleşme Tarihi",
+      "fiyat": "3732800",
+      "tarih": "2025-07-23",
+      "para": "TRY",
+      "kayit_tarihi": "2026-11-18",
+      "yuklenici": "MUSTAFA DURMAZ GIDA PAZARLAMA İNŞAAT NAKLİYAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+    },
+    "zip": {
+      "dosya": "kaynaklar/ihaleler/ihale_dokumani_2025_810909.zip",
+      "sha256": "5a800e3f2057d71a5eb1fe81554fa6d3c48dabcd3069913ee25c3bd39985ed4b"
+    },
+    "belgeler": [
+      {
+        "dosya": "12278420_IhaleDokumani.zip!ihale_dokumani_2025-810909/2025-810909_idari_sartname.doc",
+        "sha256": "03264f6a8e38cc1821e148f8e7f4c5be960345364099b1e819627b11905ce3d8",
+        "metin_sha256": "2a921d14d79afcaa0b7d38ef3fa232afa5244cf34a19bc3fd25b2977ef3bf6a3",
+        "ikn_satir": 23
+      },
+      {
+        "dosya": "12278420_IhaleDokumani.zip!ihale_dokumani_2025-810909/2025-810909_sozlesme_tasarisi.doc",
+        "sha256": "aca1cf6086434463d5025416f57d900d6ee25c8796a72a0ab6e8e175451edd77",
+        "metin_sha256": "7aecc5f1bb3c5dd1813208c71f160fbeb6746930761e970d290e33be719bd3d9",
+        "ikn_satir": 3
+      },
+      {
+        "dosya": "12278420_IhaleDokumani.zip!ihale_dokumani_2025-810909/standartFormlar/2025_810909_Birim_Fiyat_Teklif_Cetveli_KIK0015_5B_EKAP_M.docx",
+        "sha256": "281e595725f182e0e66ca246b5feea6c9e2d06f813d763a01c70b67eb64a3b2f",
+        "metin_sha256": "4fbbcf3a973a02507ee56de68ebe673995729fa4e8078e0280516e8662aa6045",
+        "ikn_satir": 2
+      }
+    ],
+    "teknik_durum": "KOSULLU",
+    "kaynak_kokeni": "Kullanıcının sağladığı EKAP sonuç görüntüsü ve aynı İKN’nin belge paketi"
+  },
+  {
+    "ikn": "2026/184083",
+    "ad": "80gr A4 Kağıdı (Fotokopi Kağıdı)",
+    "kurum": "ADANA ORMAN BÖLGE MÜDÜRLÜĞÜ",
+    "tur": "Mal",
+    "kategori": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "sonuc": {
+      "dosya": "2026_184083.png",
+      "sha256": "a626963871fd4c71cc4fa6763742412b8d3d39528aa428aa8b4e75b7eb2206d9",
+      "konum": "Sözleşme Bedeli / Sözleşme Tarihi",
+      "fiyat": "498750",
+      "tarih": "2026-03-02",
+      "para": "TRY",
+      "kayit_tarihi": "2026-11-18",
+      "yuklenici": "ÇAKSU TOWER DANIŞMANLIK TAAHHÜT İTHALAT İHRACAT TİCARET LİMİTED ŞİRKETİ"
+    },
+    "zip": {
+      "dosya": "kaynaklar/ihaleler/ihale_dokumani_2026_184083.zip",
+      "sha256": "7e0b6d154e07e0ae0091bf754680bbe994bcdeb49d1b0d0ac517f5111408a5a7"
+    },
+    "belgeler": [
+      {
+        "dosya": "14262297_IhaleDokumani.zip!ihale_dokumani_2026-184083/2026-184083_Birim_Fiyat_Teklif_Cetveli.docx",
+        "sha256": "11e087719ceabbc83d173e9436eae1e7d67c289cd46fe43f54951e9a9f2003e4",
+        "metin_sha256": "a3f850033bb5e546bfb5b8303b49c48d05ba7c00880cba425a4d97fff1289cfb",
+        "ikn_satir": 2
+      },
+      {
+        "dosya": "14262297_IhaleDokumani.zip!ihale_dokumani_2026-184083/2026-184083_idari_sartname.doc",
+        "sha256": "203f25807b99d753df3cf15a1988c6bfbfb98c0fa1ccfbdd75d52036bfb717f1",
+        "metin_sha256": "7d69ef69e1f8c7cea8baaa319ea0ed5e26bc19b7daa9abc6718f72db40e760d0",
+        "ikn_satir": 20
+      },
+      {
+        "dosya": "14262297_IhaleDokumani.zip!ihale_dokumani_2026-184083/2026-184083_sozlesme_tasarisi.doc",
+        "sha256": "606d54c3563b6a1f03b9573078adda3d4917c604a1f3bfe5041a838d89273d64",
+        "metin_sha256": "b83f2edf1d24cac173c85c502acfcbe180110617d17f9b2c0ef731f0036545f1",
+        "ikn_satir": 3
+      }
+    ],
+    "teknik_durum": "KOSULLU",
+    "kaynak_kokeni": "Kullanıcının sağladığı EKAP sonuç görüntüsü ve aynı İKN’nin belge paketi"
+  },
+  {
+    "ikn": "2026/255434",
+    "ad": "A4 Fotokopi Kağıdı",
+    "kurum": "SGK İstanbul Sosyal Güvenlik İl Müdürlüğü",
+    "tur": "Mal",
+    "kategori": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "sonuc": {
+      "dosya": "2026_255434.png",
+      "sha256": "834830e17f72ee3cc2197bc134ad88bab955a3b4995cf02ac22b202c74fcf525",
+      "konum": "Sözleşme Bedeli / Sözleşme Tarihi",
+      "fiyat": "6048000",
+      "tarih": "2026-04-30",
+      "para": "TRY",
+      "kayit_tarihi": "2026-11-17",
+      "yuklenici": "MOPAK KAĞIT KARTON SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+    },
+    "zip": {
+      "dosya": "kaynaklar/ihaleler/ihale_dokumani_2026_255434.zip",
+      "sha256": "0ad1ae517ac1df012c23857d012e877c073cd6001b72d61d47b6c7047c5d5032"
+    },
+    "belgeler": [
+      {
+        "dosya": "14330495_IhaleDokumani.zip!ihale_dokumani_2026-255434/2026-255434_Birim_Fiyat_Teklif_Cetveli.docx",
+        "sha256": "8d9f89a17553b5a8f3a28ff3f36b78fbce0e6f400b109d68690b2268bdf0a92a",
+        "metin_sha256": "000a9297bba9ac9dbab344d17b62f54f6304cabe343c78527653812c0a44b66a",
+        "ikn_satir": 2
+      },
+      {
+        "dosya": "14330495_IhaleDokumani.zip!ihale_dokumani_2026-255434/2026-255434_idari_sartname.doc",
+        "sha256": "342a5787a282e50e35b53f9cbc8a6894ad457a55a4ea092a81ae4e74491ea58a",
+        "metin_sha256": "b70aa2fa603935405032e2d179452924d9eee0b7f9265e0318f44c9a5999ff80",
+        "ikn_satir": 20
+      },
+      {
+        "dosya": "14330495_IhaleDokumani.zip!ihale_dokumani_2026-255434/2026-255434_sozlesme_tasarisi.doc",
+        "sha256": "c2d37f52673569a800dcdba420772cdde77c056526802cdaad6fec0c8c3d0939",
+        "metin_sha256": "ce74534fb91bf0fa1c6f2f6d452a6a32a3b640ee8c7a13fb5083fec378f43902",
+        "ikn_satir": 3
+      }
+    ],
+    "teknik_durum": "URUN_DOGRULANDI",
+    "kaynak_kokeni": "Kullanıcının sağladığı EKAP sonuç görüntüsü ve aynı İKN’nin belge paketi"
+  },
+  {
+    "ikn": "2026/426628",
+    "ad": "KAĞIT A4 FOTOKOPİ BOY:297MM EN:210MM AĞIRLIK 80 GR",
+    "kurum": "Afyonkarahisar İl Jandarma Komutanlığı(Afyon) İÇİŞLERİ BAKANLIĞI JANDARMA GENEL KOMUTANLIĞI",
+    "tur": "Mal",
+    "kategori": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "sonuc": {
+      "dosya": "2026_426628.png",
+      "sha256": "318a02a174858944244f5860c5a15c96f6da99791efa0fe4a1e9989cbe70f59b",
+      "konum": "Sözleşme Bedeli / Sözleşme Tarihi",
+      "fiyat": "687500",
+      "tarih": "2026-04-29",
+      "para": "TRY",
+      "kayit_tarihi": "2026-11-18",
+      "yuklenici": "TEKNİKALPARK KOPYALAMA BASKI SİSTEMLERİ BİLGİSAYAR VE BÜRO MAKİNALARI KIRTASİYE DAYANIKLI TÜKETİM MALLARI İNŞAAT TAŞIMACILIK LİMİTED ŞİRKETİ"
+    },
+    "zip": {
+      "dosya": "kaynaklar/ihaleler/ihale_dokumani_2026_426628.zip",
+      "sha256": "803df77657306ec2fbc5c9654db85fc7c490687ebddd1e287020f601c38b72d3"
+    },
+    "belgeler": [
+      {
+        "dosya": "14514685_IhaleDokumani.zip!ihale_dokumani_2026-426628/2026-426628_Birim_Fiyat_Teklif_Cetveli.docx",
+        "sha256": "aa6f3a3caa4d487517aee549ccdbed3ddee49812f86a5ace9b5e99a4f0ef627b",
+        "metin_sha256": "512a49f0c57dc9c34423d5ea05f44176f7b55068d89322daffa4326f3bfc253b",
+        "ikn_satir": 2
+      },
+      {
+        "dosya": "14514685_IhaleDokumani.zip!ihale_dokumani_2026-426628/2026-426628_idari_sartname.doc",
+        "sha256": "f08d478bd223e9ef8361e11724a91a653bdde89d30e8f1d5d5323fd7045b496e",
+        "metin_sha256": "20df0967c86c7520e7f0047c183ee68d3640232a5305bb31a9cc3d84f2a895f6",
+        "ikn_satir": 20
+      },
+      {
+        "dosya": "14514685_IhaleDokumani.zip!ihale_dokumani_2026-426628/2026-426628_sozlesme_tasarisi.doc",
+        "sha256": "7a9c250753054aec9764f869b069f9a201b773da347726979381d84c1bdaf2cd",
+        "metin_sha256": "25e9a5f919d3ef78c0895cf091afb838b207801858a1ed6ce6cfdbd5f696448f",
+        "ikn_satir": 3
+      }
+    ],
+    "teknik_durum": "URUN_DOGRULANDI",
+    "kaynak_kokeni": "Kullanıcının sağladığı EKAP sonuç görüntüsü ve aynı İKN’nin belge paketi"
+  },
+  {
+    "ikn": "2026/482253",
+    "ad": "A4 Fotokopi Kağıdı (80 gr)",
+    "kurum": "İSTANBUL YATIRIM İZLEME VE KOORDİNASYON BAŞKANLIĞI",
+    "tur": "Mal",
+    "kategori": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "sonuc": {
+      "dosya": "2026_482253.png",
+      "sha256": "41808215e0d647d0e10dd210821fa1c2ef0adadf9cd99b196dc12cff4266d828",
+      "konum": "Sözleşme Bedeli / Sözleşme Tarihi",
+      "fiyat": "8400000",
+      "tarih": "2026-05-08",
+      "para": "TRY",
+      "kayit_tarihi": "2026-11-18",
+      "yuklenici": "OPERA KIRTASİYE SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+    },
+    "zip": {
+      "dosya": "kaynaklar/ihaleler/ihale_dokumani_2026_482253.zip",
+      "sha256": "e8b1295a953e2cc600f00574ab8f4131cb1465e6a84b97192c3d3d2b4a1a2bc9"
+    },
+    "belgeler": [
+      {
+        "dosya": "14572184_IhaleDokumani.zip!ihale_dokumani_2026-482253/2026-482253_Birim_Fiyat_Teklif_Cetveli.docx",
+        "sha256": "dcf900c883e5d5c18f9b5f8e155c1877dc5822c65e0a1f220ec1e790360770c2",
+        "metin_sha256": "6ff665e39b51d2224d6abdc0248bd0faf8c25560ace416a0ed2a0971c8998685",
+        "ikn_satir": 2
+      },
+      {
+        "dosya": "14572184_IhaleDokumani.zip!ihale_dokumani_2026-482253/2026-482253_idari_sartname.doc",
+        "sha256": "31ed19ecd95161f9e0465d126b6f7db4905c0dab5458acc71f7597bf2040b4c5",
+        "metin_sha256": "45d49d2bb217b9c0b924e0341e92a0fcbdc9724c96f327eb9ccaf0aa03bf048d",
+        "ikn_satir": 20
+      },
+      {
+        "dosya": "14572184_IhaleDokumani.zip!ihale_dokumani_2026-482253/2026-482253_sozlesme_tasarisi.doc",
+        "sha256": "6d1dcf397f091b89bcc0728367ddede201a68e96e3916729e842fd583c5df364",
+        "metin_sha256": "4248f27e19bf45c2c72f615de266c7139a80e5a3e4e152694b6b5f0cfd7bfa3f",
+        "ikn_satir": 3
+      }
+    ],
+    "teknik_durum": "KOSULLU",
+    "kaynak_kokeni": "Kullanıcının sağladığı EKAP sonuç görüntüsü ve aynı İKN’nin belge paketi"
+  },
+  {
+    "ikn": "2026/735220",
+    "ad": "80 gr/m² A4 fotokopi kağıdı",
+    "kurum": "İZMİR CUMHURİYET BAŞSAVCILIĞI",
+    "tur": "Mal",
+    "kategori": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "sonuc": {
+      "dosya": "2026_735220.png",
+      "sha256": "8540933a6c0a2cc08ecfd9c96cd498ace5bc413c2c398776fed2d8af5acad334",
+      "konum": "Sözleşme Bedeli / Sözleşme Tarihi",
+      "fiyat": "3924000",
+      "tarih": "2026-06-24",
+      "para": "TRY",
+      "kayit_tarihi": "2026-11-18",
+      "yuklenici": "MOPAK KAĞIT KARTON SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+    },
+    "zip": {
+      "dosya": "kaynaklar/ihaleler/ihale_dokumani_2026_735220.zip",
+      "sha256": "176ca5eb6958c5cab54293155071df4368dfb0890900cf5630c9718a46ff0e77"
+    },
+    "belgeler": [
+      {
+        "dosya": "14835288_IhaleDokumani.zip!ihale_dokumani_2026-735220/2026-735220_Birim_Fiyat_Teklif_Cetveli.docx",
+        "sha256": "6cdebb0cca19ca98e4b3c698c1e94a68055bd2fa7bb143eae6e68fc22ccb3f74",
+        "metin_sha256": "4d565346eb6a9416b6cea686e3de35cfaead36d4220618d91847cd1725933b15",
+        "ikn_satir": 2
+      },
+      {
+        "dosya": "14835288_IhaleDokumani.zip!ihale_dokumani_2026-735220/2026-735220_idari_sartname.doc",
+        "sha256": "a5b4ba02182fc7aea552af800f4b545445c7a69e772eb924e0f310c897d04bc7",
+        "metin_sha256": "fe3b2a7dccd6e3e1311a69346a6dd4ce915143009952b56c0c3edc4f9ffaad87",
+        "ikn_satir": 24
+      },
+      {
+        "dosya": "14835288_IhaleDokumani.zip!ihale_dokumani_2026-735220/2026-735220_sozlesme_tasarisi.doc",
+        "sha256": "49e49f753899b38055d7f70c99f02c1f01654879b8287aa191bd95467becfd6f",
+        "metin_sha256": "21de61baf7e376fc13e268b42882cbc638518d9698534f4e55971e4da58b1fac",
+        "ikn_satir": 3
+      }
+    ],
+    "teknik_durum": "URUN_DOGRULANDI",
+    "kaynak_kokeni": "Kullanıcının sağladığı EKAP sonuç görüntüsü ve aynı İKN’nin belge paketi"
+  }
+]
