@@ -1,0 +1,68 @@
+{
+  "alanlar": {
+    "Gramaj (g/m²)": {
+      "tip": "number",
+      "birim": "g/m²"
+    },
+    "Paketteki yaprak sayısı": {
+      "tip": "number",
+      "birim": "yaprak"
+    },
+    "Kolideki paket sayısı": {
+      "tip": "number",
+      "birim": "paket"
+    },
+    "RAM": {
+      "tip": "number",
+      "birim": "GB"
+    },
+    "Depolama": {
+      "tip": "number",
+      "birim": "GB"
+    },
+    "Yük ağırlığı": {
+      "tip": "number",
+      "birim": "kg"
+    },
+    "Temizlik alanı": {
+      "tip": "number",
+      "birim": "m²"
+    },
+    "Anma gerilimi": {
+      "tip": "number",
+      "birim": "V"
+    },
+    "Metraj": {
+      "tip": "number",
+      "birim": "m²"
+    },
+    "Süre": {
+      "tip": "number",
+      "birim": "gün"
+    }
+  },
+  "kategori_alanlari": {
+    "Mal/Kırtasiye/Kâğıt": {"Boyut":{"tip":"select","secenekler":["A4","A3","A5"],"bilinmiyor":true}},
+    "Mal/Bilişim/Bilgisayar": {"İşlemci sınıfı":{"tip":"select","secenekler":["Giriş","Orta","Yüksek"],"bilinmiyor":true}}
+  },
+  "emsal": [
+    {
+      "kategori": [
+        "Kırtasiye",
+        "Kâğıt"
+      ],
+      "tur": "Mal",
+      "hedef": {
+        "Boyut": "A4",
+        "Gramaj (g/m²)": "80",
+        "Paketteki yaprak sayısı": "500"
+      },
+      "endeks": "C17",
+      "endeks_gerekcesi": "TÜİK NACE Rev.2 C17: kâğıt ve kâğıt ürünleri üretici fiyat endeksi",
+      "birim": "paket",
+      "ambalaj": "koli",
+      "carpan": "Kolideki paket sayısı",
+      "alim_kaynagi": {"dosya": "data/alim/76de1aed/alim.sqlite", "sha256": "76de1aed87ae52753baa4a547b0b09d869c10b66e79d69384a9f16b83a9180ad", "sinif": "Tier 1"}
+    }
+  ]
+}

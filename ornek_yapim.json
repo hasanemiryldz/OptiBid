@@ -1,0 +1,37 @@
+{
+  "id": "ornek",
+  "rev": 0,
+  "sema_surumu": "1",
+  "adim": 0,
+  "tamam": false,
+  "ihale_turu": "Yapım",
+  "kategori": [
+    "İnşaat",
+    "Onarım"
+  ],
+  "kalemler": [
+    {
+      "id": "ornek-kalem",
+      "ad": "İç mekân bakım ve onarım",
+      "miktar": "450",
+      "birim": "m²",
+      "teknik": {
+        "Metraj": "450",
+        "Uygulama kapsamı": "Duvar yüzey hazırlığı ve boya",
+        "Malzeme": "Su bazlı iç cephe boyası"
+      }
+    }
+  ],
+  "teknik_sartlar": [],
+  "teslimat": {
+    "yer": "İdarenin çalışma alanı",
+    "sure": "90",
+    "gun_turu": "Takvim günü",
+    "baslangic": "Sözleşme imzası"
+  },
+  "teklifler": [],
+  "ornek_veri": true,
+  "ek_bilgiler": {
+    "varsayim": "Sunum için hazırlanmış örnek girdiler. Gerçek ihale veya teklif değildir."
+  }
+}

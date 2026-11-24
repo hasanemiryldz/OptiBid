@@ -1,0 +1,110 @@
+{
+  "id": "afc12f00-601a-4e7f-8a7f-8039e84e076b",
+  "rev": 1,
+  "sema_surumu": "1",
+  "adim": 0,
+  "tamam": false,
+  "ihale_turu": "Mal",
+  "kategori": [
+    "Kırtasiye",
+    "Kâğıt"
+  ],
+  "kalemler": [
+    {
+      "id": "3f7cd58c-b551-43d8-85fd-9467f2cdc81b",
+      "ad": "A4 fotokopi kâğıdı",
+      "miktar": "1000",
+      "birim": "koli",
+      "teknik": {
+        "Boyut": "A4",
+        "Gramaj (g/m²)": "80",
+        "Paketteki yaprak sayısı": "500",
+        "Kolideki paket sayısı": "5"
+      }
+    }
+  ],
+  "teknik_sartlar": [],
+  "teslimat": {
+    "yer": "Kurum deposu",
+    "sure": "10",
+    "gun_turu": "Takvim günü",
+    "baslangic": "Sipariş bildirimi"
+  },
+  "teklifler": [
+    {
+      "firma_adi": "Örnek Firma A",
+      "ornek_veri": true,
+      "para_birimi": "TRY",
+      "kdv_esasi": "hariç",
+      "teslim_suresi": 10,
+      "gun_turu": "Takvim günü",
+      "baslangic": "Sipariş bildirimi",
+      "satirlar": [
+        {
+          "kalem_id": "3f7cd58c-b551-43d8-85fd-9467f2cdc81b",
+          "miktar": "1000",
+          "birim": "koli",
+          "birim_fiyat": "600.00",
+          "teknik": {
+            "Boyut": "A4",
+            "Gramaj (g/m²)": "80",
+            "Paketteki yaprak sayısı": "500",
+            "Kolideki paket sayısı": "5"
+          }
+        }
+      ]
+    },
+    {
+      "firma_adi": "Örnek Firma B",
+      "ornek_veri": true,
+      "para_birimi": "TRY",
+      "kdv_esasi": "hariç",
+      "teslim_suresi": 10,
+      "gun_turu": "Takvim günü",
+      "baslangic": "Sipariş bildirimi",
+      "satirlar": [
+        {
+          "kalem_id": "3f7cd58c-b551-43d8-85fd-9467f2cdc81b",
+          "miktar": "1000",
+          "birim": "koli",
+          "birim_fiyat": "570.00",
+          "teknik": {
+            "Boyut": "A4",
+            "Gramaj (g/m²)": "75",
+            "Paketteki yaprak sayısı": "500",
+            "Kolideki paket sayısı": "5"
+          }
+        }
+      ]
+    },
+    {
+      "firma_adi": "Örnek Firma C",
+      "ornek_veri": true,
+      "para_birimi": "TRY",
+      "kdv_esasi": "hariç",
+      "teslim_suresi": 5,
+      "gun_turu": "Takvim günü",
+      "baslangic": "Sipariş bildirimi",
+      "satirlar": [
+        {
+          "kalem_id": "3f7cd58c-b551-43d8-85fd-9467f2cdc81b",
+          "miktar": "1000",
+          "birim": "koli",
+          "birim_fiyat": "635.00",
+          "teknik": {
+            "Boyut": "A4",
+            "Gramaj (g/m²)": "80",
+            "Paketteki yaprak sayısı": "500",
+            "Kolideki paket sayısı": "5"
+          }
+        }
+      ]
+    }
+  ],
+  "ek_bilgiler": {
+    "varsayim": "Örnek varsayımı: Bir kolide 5 paket bulunur.",
+    "demo_kdv_esasi": "hariç",
+    "demo_sorusu": "Gramaj (g/m²)"
+  },
+  "ornek_veri": true
+}

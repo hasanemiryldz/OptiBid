@@ -1,0 +1,23 @@
+{
+  "surum": "1",
+  "es_adlar": {
+    "ad.": "adet",
+    "ad": "adet",
+    "pcs": "adet",
+    "piece": "adet",
+    "pieces": "adet",
+    "kilogram": "kg",
+    "kgs": "kg",
+    "metrekare": "m²",
+    "m2": "m²",
+    "m^2": "m²",
+    "metreküp": "m³",
+    "m3": "m³",
+    "lt": "litre",
+    "liter": "litre",
+    "package": "paket",
+    "box": "koli",
+    "hour": "saat",
+    "month": "ay"
+  }
+}

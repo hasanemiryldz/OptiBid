@@ -1,0 +1,13 @@
+{
+  "surum": 1,
+  "retrieval_k": 8,
+  "fts_aday_sayisi": 24,
+  "embedding_model": "embeddinggemma:latest",
+  "embedding_boyutu": 768,
+  "embedding_parti": 12,
+  "embedding_sure_sn": 36,
+  "llm_top_k": 20,
+  "num_ctx": 4096,
+  "rerank_candidate_count": 0,
+  "rerank_top_n": 0
+}

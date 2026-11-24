@@ -1,0 +1,14 @@
+name: OptiBid kanıt testleri
+on: [push, pull_request]
+jobs:
+  cevrimdisi:
+    runs-on: windows-latest
+    env:
+      OPTIBID_LLM: 'off'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -B -X utf8 -m unittest discover -s tests -p test_ajan_kanit.py -v
+      - run: python -B -X utf8 -m unittest discover -s tests -p test_belge_rapor.py -v

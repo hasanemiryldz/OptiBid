@@ -1,0 +1,37 @@
+{
+  "id": "ornek",
+  "rev": 0,
+  "sema_surumu": "1",
+  "adim": 0,
+  "tamam": false,
+  "ihale_turu": "Hizmet",
+  "kategori": [
+    "Genel hizmetler",
+    "Temizlik"
+  ],
+  "kalemler": [
+    {
+      "id": "ornek-kalem",
+      "ad": "Bina temizlik hizmeti",
+      "miktar": "12",
+      "birim": "ay",
+      "teknik": {
+        "Temizlik alanı": "2500",
+        "Sıklık": "Her iş günü",
+        "Malzeme kapsamı": "Yüklenici sağlar"
+      }
+    }
+  ],
+  "teknik_sartlar": [],
+  "teslimat": {
+    "yer": "İdarenin çalışma alanı",
+    "sure": "90",
+    "gun_turu": "Takvim günü",
+    "baslangic": "Sözleşme imzası"
+  },
+  "teklifler": [],
+  "ornek_veri": true,
+  "ek_bilgiler": {
+    "varsayim": "Sunum için hazırlanmış örnek girdiler. Gerçek ihale veya teklif değildir."
+  }
+}

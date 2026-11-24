@@ -1,0 +1,26 @@
+[
+  {
+    "id": "mal-demo",
+    "baslik": "Mal alımı",
+    "aciklama": "Ambalaj dönüşümü ve teknik karşılaştırma",
+    "dosya": "kagit_ornegi.json"
+  },
+  {
+    "id": "hizmet-demo",
+    "baslik": "Hizmet alımı",
+    "aciklama": "Kapsam, sıklık ve hizmet süresi",
+    "dosya": "ornek_hizmet.json"
+  },
+  {
+    "id": "yapim-demo",
+    "baslik": "Yapım işi",
+    "aciklama": "Metraj ve uygulama kapsamı",
+    "dosya": "ornek_yapim.json"
+  },
+  {
+    "id": "danismanlik-demo",
+    "baslik": "Danışmanlık",
+    "aciklama": "Çıktılar ve uzmanlık ihtiyacı",
+    "dosya": "ornek_danismanlik.json"
+  }
+]

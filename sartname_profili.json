@@ -1,0 +1,18 @@
+{
+  "surum": 4,
+  "kategoriler": {
+    "Mal/Kırtasiye/Kâğıt": ["fotokopi", "kagit", "kagidi"],
+    "Mal/Bilişim/Bilgisayar": ["bilgisayar", "bilgisayari"],
+    "Hizmet/Genel hizmetler/Temizlik": ["temizlik hizmeti", "temizlik hizmet alimi"],
+    "Yapım/İnşaat/Onarım": ["onarim", "tadilat"],
+    "Danışmanlık/Uzmanlık/Teknik danışmanlık": ["danismanlik", "musavirlik"]
+  },
+  "teknik": {
+    "Boyut": {"anlati": "\\b(A[345])\\b(?=\\s*(?:boyut|ebat|fotokopi|kağıt|kâğıt))", "tablo": ["kağıt biçimi ve boyut", "boyut"], "tip": "boyut"},
+    "Gramaj (g/m²)": {"anlati": "\\b(\\d+(?:[.,]\\d+)?)\\s*g\\s*/\\s*m[²2]\\b", "tip": "sayi", "birim": "g/m²"},
+    "Paketteki yaprak sayısı": {"anlati": "(?:paket(?:te| başına)|her paket(?:te)?)[^.;|\\n]{0,28}?\\b(\\d{1,5})\\s*yaprak\\b|\\b(\\d{1,5})\\s*yaprak\\s*/\\s*paket\\b", "tip": "tam", "birim": "yaprak/paket"},
+    "Kolideki paket sayısı": {"anlati": "(?:koli(?:de| başına)|her koli(?:de)?)[^.;|\\n]{0,28}?\\b(\\d{1,5})\\s*paket\\b|\\b(\\d{1,5})\\s*paket\\s*/\\s*koli\\b", "tip": "tam", "birim": "paket/koli"},
+    "RAM": {"anlati": "\\b(\\d{1,5})\\s*GB\\s*RAM\\b", "tip":"tam", "birim":"GB"},
+    "Depolama": {"anlati": "\\b(\\d{1,5})\\s*GB\\s*(?:SSD|depolama)\\b", "tip":"tam", "birim":"GB"}
+  }
+}

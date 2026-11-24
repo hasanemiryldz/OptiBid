@@ -1,0 +1,149 @@
+{
+  "surum": 1,
+  "kdv_yoksa": "belirsiz",
+  "kategori_eslesmeleri": {
+    "A4 ve fotokopi kâğıdı": {"tur":"Mal","kategori":["Kırtasiye","Kâğıt"],"kapsam":"karma_veya_teknik_eksik","endeks":null},
+    "Diğer kırtasiye": {"tur":"Mal","kategori":["Kırtasiye","Diğer"],"kapsam":"sozlesme_paketi","endeks":null},
+    "Temizlik malzemeleri": {"tur":"Mal","kategori":["Temizlik","Sarf malzemesi"],"kapsam":"sozlesme_paketi","endeks":null},
+    "Tıbbi malzeme ve laboratuvar": {"tur":"Mal","kategori":["Genel","Diğer"],"kapsam":"sozlesme_paketi","endeks":null},
+    "Gıda alımları": {"tur":"Mal","kategori":["Genel","Diğer"],"kapsam":"sozlesme_paketi","endeks":null},
+    "Asansör bakım ve onarımı": {"tur":"Hizmet","kategori":["Bakım","Asansör"],"kapsam":"bakim_kapsami","endeks":null},
+    "Ofis mobilyası": {"tur":"Mal","kategori":["Mobilya","Ofis mobilyası"],"kapsam":"sozlesme_paketi","endeks":null},
+    "Bilgisayar ve donanım": {"tur":"Mal","kategori":["Bilişim","Bilgisayar"],"kapsam":"sozlesme_paketi","endeks":null},
+    "A4 Fotokopi Kağıdı (Nominal 80g)": {
+      "tur": "Mal",
+      "kategori": [
+        "Kırtasiye",
+        "Kâğıt"
+      ],
+      "kapsam": "urun_adayi",
+      "endeks": "C17"
+    },
+    "Karma / Koşullu Kağıt Alımları": {
+      "tur": "Mal",
+      "kategori": [
+        "Kırtasiye",
+        "Kâğıt"
+      ],
+      "kapsam": "karma_veya_teknik_eksik",
+      "endeks": null
+    },
+    "Kırtasiye ve Büro Tüketim Malzemeleri": {
+      "tur": "Mal",
+      "kategori": [
+        "Kırtasiye",
+        "Diğer"
+      ],
+      "kapsam": "sozlesme_paketi",
+      "endeks": null
+    },
+    "Yazıcı ve Fotokopi Toneri": {
+      "tur": "Mal",
+      "kategori": [
+        "Bilişim",
+        "Toner"
+      ],
+      "kapsam": "sozlesme_paketi",
+      "endeks": null
+    },
+    "Personel Taşıma Hizmeti": {
+      "tur": "Hizmet",
+      "kategori": [
+        "Ulaşım",
+        "Personel taşıma"
+      ],
+      "kapsam": "hizmet_kapsami",
+      "endeks": null
+    },
+    "Özel Güvenlik Hizmeti": {
+      "tur": "Hizmet",
+      "kategori": [
+        "Genel hizmetler",
+        "Güvenlik"
+      ],
+      "kapsam": "hizmet_kapsami",
+      "endeks": null
+    },
+    "Genel Temizlik Hizmeti": {
+      "tur": "Hizmet",
+      "kategori": [
+        "Genel hizmetler",
+        "Temizlik"
+      ],
+      "kapsam": "hizmet_kapsami",
+      "endeks": null
+    },
+    "Yemek ve İaşe Hizmeti": {
+      "tur": "Hizmet",
+      "kategori": [
+        "Yemek",
+        "Toplu yemek"
+      ],
+      "kapsam": "hizmet_kapsami",
+      "endeks": null
+    },
+    "Asansör Bakım-Onarım": {
+      "tur": "Hizmet",
+      "kategori": [
+        "Bakım",
+        "Asansör"
+      ],
+      "kapsam": "bakim_kapsami",
+      "endeks": null
+    },
+    "Taşıt Bakım-Onarım": {
+      "tur": "Hizmet",
+      "kategori": [
+        "Bakım",
+        "Araç"
+      ],
+      "kapsam": "bakim_kapsami",
+      "endeks": null
+    },
+    "Tıbbi Cihaz Bakım-Onarım": {
+      "tur": "Hizmet",
+      "kategori": [
+        "Bakım",
+        "Tıbbi cihaz"
+      ],
+      "kapsam": "bakim_kapsami",
+      "endeks": null
+    },
+    "Bina ve Tesis Onarım": {
+      "tur": "Yapım",
+      "kategori": [
+        "İnşaat",
+        "Onarım"
+      ],
+      "kapsam": "is_kapsami",
+      "endeks": null
+    },
+    "Harita ve İmar Müşavirliği": {
+      "tur": "Danışmanlık",
+      "kategori": [
+        "Uzmanlık",
+        "Teknik danışmanlık"
+      ],
+      "kapsam": "is_kapsami",
+      "endeks": null
+    },
+    "Mühendislik Etüt-Proje": {
+      "tur": "Danışmanlık",
+      "kategori": [
+        "Uzmanlık",
+        "Teknik danışmanlık"
+      ],
+      "kapsam": "is_kapsami",
+      "endeks": null
+    },
+    "Yapı Denetimi ve Kontrollük": {
+      "tur": "Danışmanlık",
+      "kategori": [
+        "Uzmanlık",
+        "Teknik danışmanlık"
+      ],
+      "kapsam": "is_kapsami",
+      "endeks": null
+    }
+  }
+}

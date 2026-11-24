@@ -1,0 +1,507 @@
+[
+  {
+    "yol": ".env.example",
+    "bayt": 22,
+    "sha256": "7f5522f393818a3c31cce6052430090542e9f647fa1e08006bbe2ac447803756"
+  },
+  {
+    "yol": ".github/workflows/kanit.yml",
+    "bayt": 440,
+    "sha256": "0607f4ee92d55aa6b0336a75d757024cd607a0c0ed666accc69e28c01a7f7edb"
+  },
+  {
+    "yol": ".gitignore",
+    "bayt": 276,
+    "sha256": "6af4feeb45e90f8ed46e8a4091177337c543723b9363cb4852a329d10e60b1aa"
+  },
+  {
+    "yol": "Baslat.bat",
+    "bayt": 220,
+    "sha256": "21f5aad985b936b19226684464bc8388f9073321a529bad4cda083657da53f5c"
+  },
+  {
+    "yol": "DEGERLENDIRME.md",
+    "bayt": 1564,
+    "sha256": "a447c038ea65f62cc1bd68e055025156e7a129f7e417f2afc2e4a059bbe4d06a"
+  },
+  {
+    "yol": "DEMO_AKISI.md",
+    "bayt": 1193,
+    "sha256": "acf7216cb29dfba8e8a5aaf48e232ff03f9a57368aefd0bab0fcf69bdff2d3d4"
+  },
+  {
+    "yol": "Kurulum.bat",
+    "bayt": 485,
+    "sha256": "8871a619ff327a2c2d59efac3b9b2cad18c57ab45b5f7573fed590e3c1ac40db"
+  },
+  {
+    "yol": "MIMARI.md",
+    "bayt": 1787,
+    "sha256": "b57f27922b46cde77f918c15995907b21208175f1222754cd950ade23e3ecf57"
+  },
+  {
+    "yol": "README.md",
+    "bayt": 5077,
+    "sha256": "eaeb7e097516bfe5f53569e3a3fc4e63893d2c2e106acaefafbf1f343a880d49"
+  },
+  {
+    "yol": "SUNUM_NOTLARI.md",
+    "bayt": 158,
+    "sha256": "46082b8c300bf3538f09a58693c92d760f1b9ab4d9b992eb26efe44de2406a6f"
+  },
+  {
+    "yol": "VERI_KARTI.md",
+    "bayt": 2250,
+    "sha256": "bd14382ba04e0eea3b9b3ff401aecbce404d1e4b58933828ae37d1fb0c1f8e28"
+  },
+  {
+    "yol": "ajan.py",
+    "bayt": 10611,
+    "sha256": "38122546a98c826c6e0fe5b7d54c22f39cf08f10496ee263de89579a5e039fd2"
+  },
+  {
+    "yol": "alim_emsal.py",
+    "bayt": 2067,
+    "sha256": "bd7f4fe1d643f585349af979579df5f18d18c661135b81633db10f2e2c277cbb"
+  },
+  {
+    "yol": "app.js",
+    "bayt": 16856,
+    "sha256": "a8282745e8a9f9fed2f78dc940bfa6437f81f22a1454af351ba1cc9a1a1e190a"
+  },
+  {
+    "yol": "arastirma.js",
+    "bayt": 3976,
+    "sha256": "ae3ca13d1c448455c7fd3bde825a0492dcd1e74beca1880908ebc9b7639166e6"
+  },
+  {
+    "yol": "arastirma.py",
+    "bayt": 13899,
+    "sha256": "f8b754654534349d6d44a727cbdefd427e2c18a49277bb7d8d71467e0aa0bd16"
+  },
+  {
+    "yol": "arastirma_ayar.json",
+    "bayt": 721,
+    "sha256": "1f65686c1402b7b3e252efa9acfd3dd6c9b59dc4a45e4f7d9a987c1abd293219"
+  },
+  {
+    "yol": "arsiv_profilleri.json",
+    "bayt": 482,
+    "sha256": "28c8ceb67061892eaca720288a00099a01f12f69f48a8141de7b1c9b1dade865"
+  },
+  {
+    "yol": "asistan.py",
+    "bayt": 9465,
+    "sha256": "0c36d305d90990bf3a01c0d92400142eb1795002c18a0680364dea574af9cfe1"
+  },
+  {
+    "yol": "ayarlar.js",
+    "bayt": 1499,
+    "sha256": "3cde9d2cce00a3a2b576c90ab2792bf774accc18a8002dfbd01c56c50c1167e1"
+  },
+  {
+    "yol": "baslat.py",
+    "bayt": 7549,
+    "sha256": "c100673f1d9715f6d15e8a51ecbbfd02080a08060985e5db2a946e53bddacdc2"
+  },
+  {
+    "yol": "baslat.sh",
+    "bayt": 180,
+    "sha256": "6bb9df4d3c9b3d8b26432c73e56298a708dcbc548e1157591c36ffabb4a5f634"
+  },
+  {
+    "yol": "baslatma.json",
+    "bayt": 122,
+    "sha256": "34fb56924a8ceea3f8f40be057d03a59a983a2ff76076290265671e6c2a2b80c"
+  },
+  {
+    "yol": "belge_indeksi.json",
+    "bayt": 277,
+    "sha256": "c0f67a2e3700bf18601e6322a105e5566a1db4fb61d9bffdd9a94f04e45c7052"
+  },
+  {
+    "yol": "belge_indeksi.py",
+    "bayt": 8803,
+    "sha256": "0beefd7a7a2148a0a692d31a1fde945f9cf5d59650c3556d06d50e4bd71fa155"
+  },
+  {
+    "yol": "birim_sozlugu.json",
+    "bayt": 399,
+    "sha256": "90edf6a5dc088030c72a036edef70e5bb2d55869965f3c2f816880ecab46a530"
+  },
+  {
+    "yol": "calisma-v10.css",
+    "bayt": 5455,
+    "sha256": "18d85d90b3137846111ddb6831f14707fe0a33a92fd8230eb3f3343a27953009"
+  },
+  {
+    "yol": "calisma-v20.css",
+    "bayt": 12377,
+    "sha256": "475be31ae5810467ef3dd696e978d675a49506112ed71e79c191821dbded659d"
+  },
+  {
+    "yol": "calisma-v6.css",
+    "bayt": 4366,
+    "sha256": "07fce66e6e587eaf1e1106ba19b5203befded9f348ff8b6358ac15bf62f27e57"
+  },
+  {
+    "yol": "calisma.js",
+    "bayt": 5770,
+    "sha256": "a7e7ec57ade933135dc6292f592679d72e2d39b0d638e7e6fc9f2c51fb73d71a"
+  },
+  {
+    "yol": "calistir.py",
+    "bayt": 34615,
+    "sha256": "c946fee66fd62d3b861ad04a9d49b65a66375aebe7430b34a625ed23744352a8"
+  },
+  {
+    "yol": "catalog.json",
+    "bayt": 2875,
+    "sha256": "b017fa2f22849f9e09a7d532dec76b3aad1c53beff388e5175345a6e85971dc4"
+  },
+  {
+    "yol": "docs/ekranlar/ana-ekran.png",
+    "bayt": 188337,
+    "sha256": "1df639c8b607a2e2c02fcc0990f78c0160a332f90847302be33d5f336284b8fd"
+  },
+  {
+    "yol": "docs/ekranlar/belge-inceleme.png",
+    "bayt": 168931,
+    "sha256": "3af7d42289209dbcefd27cac9dd94c6065708b3e20a965381adfd35e9de8e8f5"
+  },
+  {
+    "yol": "docs/ekranlar/belge-raporu.png",
+    "bayt": 249349,
+    "sha256": "fe70dc07849391c603c86b589255f4c055cb5db934246fc04c32ec83bb15eebe"
+  },
+  {
+    "yol": "docs/ekranlar/mobil-yukleme.png",
+    "bayt": 50199,
+    "sha256": "4ecf04693dda4b44fefa89dfc303d2aa77539e7bcc629924aaaac5b4d80e7028"
+  },
+  {
+    "yol": "dosya-fiyatlari.js",
+    "bayt": 6584,
+    "sha256": "890f10231d741ece7042b75f84747051cf2e2a49ca9225eff91aaf7bdccfae58"
+  },
+  {
+    "yol": "dosya_fiyat_kategorileri.json",
+    "bayt": 3966,
+    "sha256": "0356d863cf3e98a74608802e0185924de0e8f00bfab2db47cba0e881f070606b"
+  },
+  {
+    "yol": "dosya_fiyatlari.py",
+    "bayt": 15163,
+    "sha256": "1b6d03c534c758a8d94be94bcad87b8506101317b40e39b62bce3caa787b589c"
+  },
+  {
+    "yol": "ekap_sayfalari.py",
+    "bayt": 8362,
+    "sha256": "90edf0c85df398b91eb087e999967ff1463de204533e74a87f021b70e0a6c22c"
+  },
+  {
+    "yol": "ekap_veri.py",
+    "bayt": 26346,
+    "sha256": "68902938213a4c1548a1476de0637e54216916104ec40b205c6972a4055dd928"
+  },
+  {
+    "yol": "emsal.js",
+    "bayt": 3263,
+    "sha256": "90a75d5cff7b0923e623feaef9e3ba6bd48d0a06684dd300ba3cafd1d987a28f"
+  },
+  {
+    "yol": "emsal.py",
+    "bayt": 19243,
+    "sha256": "7f066b30256171fde48bfcd35731173c65214e81b8deec0b0d457101c4119e6b"
+  },
+  {
+    "yol": "excel.py",
+    "bayt": 12366,
+    "sha256": "ac132e935b40d1bd3094bc204ff908cd04a35b0d4eeeae72b2ecb2591d53d3a1"
+  },
+  {
+    "yol": "fiyat_referansi.py",
+    "bayt": 5305,
+    "sha256": "9b63dedeba35ad6b14dfcbb2a2336a852e17bccc2f282ed1bedc8586ee776ce8"
+  },
+  {
+    "yol": "gecmis.js",
+    "bayt": 6757,
+    "sha256": "602984ce27ee84f8185e2ab0682947710240399d37a8d06bef181bd05889baef"
+  },
+  {
+    "yol": "gozlenen_fiyatlar.py",
+    "bayt": 3332,
+    "sha256": "6d4805ea65625f05c3d3a4708f3024dc5da00238c12246b1cb3769386f5f40e5"
+  },
+  {
+    "yol": "havuz.py",
+    "bayt": 2766,
+    "sha256": "9450cf558eb31d070446c1e06512597e8f1d09d633bdce1a5be20b72ce510af8"
+  },
+  {
+    "yol": "hesap_araclari.py",
+    "bayt": 1717,
+    "sha256": "3aa1dc78b0c77c3b6a6c166f8f9abe3eddc197c028ed70972fc5b59e0bdf4257"
+  },
+  {
+    "yol": "ihale_semasi.json",
+    "bayt": 1859,
+    "sha256": "4fc4f8432594bd8399684d1385714d7816ea6063999cfe98be0c85de2c1de338"
+  },
+  {
+    "yol": "index.html",
+    "bayt": 2095,
+    "sha256": "9ccc055aab5e36f282bb08edd8a2fe168f0ec5c0ec1fb220b56d604f472cfd2f"
+  },
+  {
+    "yol": "kagit_kosullu_emsaller.json",
+    "bayt": 770,
+    "sha256": "28633236312f3f4fdf08d727bfe7a593b7b2992fe1ddb3bfe1a41655e37a5efb"
+  },
+  {
+    "yol": "kagit_ornegi.json",
+    "bayt": 2869,
+    "sha256": "37944729efb83fd701bf0507bcedb60cd174d60fdf25768a46ed42f1798bdce5"
+  },
+  {
+    "yol": "karar-v10.js",
+    "bayt": 13547,
+    "sha256": "c3a6340adba1989521dc46a47c34835e72e3e78a557892088c936728c2cdad5e"
+  },
+  {
+    "yol": "karar-v6.js",
+    "bayt": 5786,
+    "sha256": "eed6e097335fc16f54f7bb7ac5f4738e8c44428662b80bc8515b8eea1b84366a"
+  },
+  {
+    "yol": "kategori_endeks.json",
+    "bayt": 80,
+    "sha256": "05e604e22e36846a4e9ed5a07a8b3f9b7e49ebe4650b7db4dd614ec51759804b"
+  },
+  {
+    "yol": "kayitlar.py",
+    "bayt": 5280,
+    "sha256": "8bd5570330a751955b29014b8a9ad1c6d1ab680414f1e24e76cab9edfd386efd"
+  },
+  {
+    "yol": "kaynaklar.json",
+    "bayt": 6413,
+    "sha256": "ac759f2a1a84f9fad6e233fbbf684d60a1b232567e9a247ccee7a4eb2ceb2b2e"
+  },
+  {
+    "yol": "mcp_hesap.py",
+    "bayt": 7890,
+    "sha256": "5e9c63d60d6445307a1238730ac89af1eed885725a58bc20a139372cad7377ef"
+  },
+  {
+    "yol": "mcp_server.py",
+    "bayt": 5043,
+    "sha256": "1bff30338382cf50cc8b38d2034fd0740b6cc1f854e8da75e9c984853b386a55"
+  },
+  {
+    "yol": "motor.py",
+    "bayt": 10863,
+    "sha256": "a5d1fa9b7f11e099331cc2fea7b1e2fe3e74f2748d4959eb0bd8f28aecb0714c"
+  },
+  {
+    "yol": "ollama_ayar.py",
+    "bayt": 1897,
+    "sha256": "47ff19409e4ad0717955ae890127fbfd5c14561c0b9bddcdb7c7a4bb700ebacd"
+  },
+  {
+    "yol": "ornek_danismanlik.json",
+    "bayt": 854,
+    "sha256": "4b77816c78564ee70c8b3b112f2edda532487b4cf9609c857cb16ab3b5b7de1d"
+  },
+  {
+    "yol": "ornek_hizmet.json",
+    "bayt": 797,
+    "sha256": "c5a82f12e20d0fd522e9931bd3e09129762b995bc052a023c2ed4ce7bd14e836"
+  },
+  {
+    "yol": "ornek_senaryolar.json",
+    "bayt": 621,
+    "sha256": "8f709ac232e78436c67ec6bf1ca07838d105995e56067ad95d5dc3f0fd914ef9"
+  },
+  {
+    "yol": "ornek_yapim.json",
+    "bayt": 818,
+    "sha256": "366b44b29fdc8c4fd4a7cc2ca9b0a07e61ea274008256261ab90d78b65bb2217"
+  },
+  {
+    "yol": "profiller.json",
+    "bayt": 1728,
+    "sha256": "b32ca48b21a60f1dc9917847082d7ad9550bfc96fdba9fca72b76ce6e57947c1"
+  },
+  {
+    "yol": "rapor.js",
+    "bayt": 32511,
+    "sha256": "ccbad5dd199a5997e462c01a73486c7cfe7bff2f6a8215824fb46611864df9aa"
+  },
+  {
+    "yol": "requirements.txt",
+    "bayt": 45,
+    "sha256": "9c3a80f7a2180ae863fa8e1a95c7aab1cbadd37df28f90bd90ee5872bdfdfa19"
+  },
+  {
+    "yol": "sartname.js",
+    "bayt": 9371,
+    "sha256": "add609820ce10112ab78dff6af71aa7f1e30f7f38f0eab84bb7b496a850aa625"
+  },
+  {
+    "yol": "sartname.py",
+    "bayt": 13510,
+    "sha256": "c510ece02e3a9119c450e5faae92bed4272c972121f08c1c562cc4c5e7d64be3"
+  },
+  {
+    "yol": "sartname_alanlari.py",
+    "bayt": 20093,
+    "sha256": "40d3efc06dcd5b576eaeb428668ec93c71ce543a81d7a26a799113c23a42aaaa"
+  },
+  {
+    "yol": "sartname_profili.json",
+    "bayt": 1281,
+    "sha256": "56a54b6c0cc4d88155cd6899b4f211bf8fc10d7477b86dbb799d48298af40e2b"
+  },
+  {
+    "yol": "senaryo.py",
+    "bayt": 24828,
+    "sha256": "7fbf4df32dfd06dc80da4dfeae574823eafa2e2165f7f2e24557ceee5bc10308"
+  },
+  {
+    "yol": "standart.py",
+    "bayt": 2007,
+    "sha256": "d6fcf2fa48dbeb1669262260de035b06e3c6a6164a8a7d2f6efd1ca1eafbb7af"
+  },
+  {
+    "yol": "static/brand/ob-192.png",
+    "bayt": 37979,
+    "sha256": "5aef6708002b0e0b35ed43ad0a3d503886c7e7239fcbed9763d9873946697710"
+  },
+  {
+    "yol": "static/brand/ob-32.png",
+    "bayt": 1895,
+    "sha256": "46f8063d034b3d5038ec0b9614777c0a3c9cdb1ddca380aeb9bf9c574b8ccd30"
+  },
+  {
+    "yol": "static/brand/ob.webp",
+    "bayt": 57068,
+    "sha256": "4bc093d74b3379b670226c532ee262f554b5af8e3659f7d62d40ce53bad207b1"
+  },
+  {
+    "yol": "static/brand/optibid-logo.webp",
+    "bayt": 26586,
+    "sha256": "f376dfa9b58202a953c04b1268d69f2c828893c78265756eb2eda7f310d81e8c"
+  },
+  {
+    "yol": "static/brand/renkler.css",
+    "bayt": 100,
+    "sha256": "b8c4be6aa4b74758950c3ccddfb471c066dc260658a4a1609cb6ecc42dd9daae"
+  },
+  {
+    "yol": "static/fonts/OFL-IBM-Plex-Sans.txt",
+    "bayt": 4456,
+    "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+  },
+  {
+    "yol": "static/fonts/OFL-Montserrat.txt",
+    "bayt": 4400,
+    "sha256": "8b7141c03fa4f8d44e6345d5d4931709290f0f67875e452e95ac1fd3a027802e"
+  },
+  {
+    "yol": "static/fonts/montserrat.ttf",
+    "bayt": 744936,
+    "sha256": "0f7b311b2f3279e4eef9b2f968bcdbab6e28f4daeb1f049f4f278a902bcd82f7"
+  },
+  {
+    "yol": "static/fonts/plex.ttf",
+    "bayt": 537244,
+    "sha256": "3b031aa4216174205bd8471f88a49b91f093169e9e87bd5262242bc5967fe2e3"
+  },
+  {
+    "yol": "sunum.js",
+    "bayt": 3555,
+    "sha256": "109d45a24190dcaf0a863e8bc0cbaae37fe4c32f097ec40b59cb02623a9243fa"
+  },
+  {
+    "yol": "tasarim.css",
+    "bayt": 16026,
+    "sha256": "aa49e0fbe07218a4e94b1e25edeb990b2f620c7c7be73ebf7273e27a4e86c095"
+  },
+  {
+    "yol": "tests/_ortak.py",
+    "bayt": 1442,
+    "sha256": "0ac4e92e1a2769f4a4ae6b51ab7d0fca5b6c6813c39a028d24151a260231329d"
+  },
+  {
+    "yol": "tests/fixtures/a4_sentetik.txt",
+    "bayt": 337,
+    "sha256": "d17caa7c8656804f041d509ef0bd027eec3b26b3edf887b075e128a4e773ba4c"
+  },
+  {
+    "yol": "tests/fixtures/ornek-sartname.pdf",
+    "bayt": 45871,
+    "sha256": "00d787b591a478a5897c1b26d22cb33fea6dc37265e958aa9bbb56f58edce307"
+  },
+  {
+    "yol": "tests/fixtures/vakalar.py",
+    "bayt": 2246,
+    "sha256": "050def81eecb3f37eb43b84a3ae271ce1401f4a3e281bfd44fa712dd583ae092"
+  },
+  {
+    "yol": "tests/test_ajan_kanit.py",
+    "bayt": 10191,
+    "sha256": "d2fc1d1b50b325cd4643fea04c76110d108bd2b64b90a4f95ceb59d786a55f6f"
+  },
+  {
+    "yol": "tests/test_belge_rapor.py",
+    "bayt": 5890,
+    "sha256": "ea8366f8b7dea0e4aa01579ef1c90a824e7bbf726aeb783fa1e25529fc6cc2f3"
+  },
+  {
+    "yol": "tools/git_paketi.py",
+    "bayt": 2713,
+    "sha256": "d5e85a2beb7cc874d53f993277c173c5e823d7b60ba8e1a24a3da3d9eff4cb60"
+  },
+  {
+    "yol": "tools/paket_hazirla.py",
+    "bayt": 3720,
+    "sha256": "836afaf03de328eaeedb9131e5ab587b4fe25b07976c36e0f963b83846ecc629"
+  },
+  {
+    "yol": "tuik_endeks.py",
+    "bayt": 2143,
+    "sha256": "eb41fede4d65a25af1f2a95403feaccd9d08b414a071dce36cd224011effda3e"
+  },
+  {
+    "yol": "urun_ayarlari.json",
+    "bayt": 215,
+    "sha256": "8c0c1b2e2cba5b430bb4950b74df613863e1f0ede7fd0b5e6907a25599adccce"
+  },
+  {
+    "yol": "urun_ayarlari.py",
+    "bayt": 774,
+    "sha256": "eae8e6fb30d300e73eb328b5412c33fce3db41a4fb47a1b6ef4a831522b616ce"
+  },
+  {
+    "yol": "veri_alim.py",
+    "bayt": 5520,
+    "sha256": "9b4fcb7d2abf9b8882a6e53c1b7057fafab8fde2738eec74e0b31897b72a87bc"
+  },
+  {
+    "yol": "veri_kokleri.json",
+    "bayt": 439,
+    "sha256": "ae0af7abf786c63f2086ddfa8f5597e34146de92fba7ac2a08f1d4219268f2b6"
+  },
+  {
+    "yol": "veri_merkezi.py",
+    "bayt": 5036,
+    "sha256": "70b14711870c22057cb241609eadd0942b50d3050c9a6abf25fc415ac7723f8e"
+  },
+  {
+    "yol": "veri_yollari.py",
+    "bayt": 338,
+    "sha256": "810251cce3fe9f54afb52f3cbd2f3a4759d738bb41c53924c3cdd43abc296acc"
+  }
+]

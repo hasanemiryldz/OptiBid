@@ -1,0 +1,159 @@
+{
+  "turler": {
+    "Mal": {
+      "Kırtasiye": {
+        "Kâğıt": [
+          "Boyut",
+          "Gramaj (g/m²)",
+          "Paketteki yaprak sayısı",
+          "Kolideki paket sayısı"
+        ],
+        "Diğer": [
+          "Özellik"
+        ]
+      },
+      "Genel": {
+        "Diğer": [
+          "Özellik"
+        ]
+      },
+      "Bilişim": {
+        "Bilgisayar": [
+          "İşlemci sınıfı",
+          "RAM",
+          "Depolama"
+        ],
+        "Toner": [
+          "Cihaz uyumluluğu",
+          "Kapasite"
+        ]
+      },
+      "Mobilya": {
+        "Ofis mobilyası": [
+          "Malzeme",
+          "Boyut"
+        ]
+      },
+      "Elektrik": {
+        "Elektrik malzemesi": [
+          "Anma gerilimi",
+          "Ürün standardı"
+        ]
+      },
+      "Yapı malzemesi": {
+        "Genel": [
+          "Malzeme",
+          "Boyut"
+        ]
+      },
+      "Temizlik": {
+        "Sarf malzemesi": [
+          "Ambalaj",
+          "İçerik"
+        ]
+      }
+    },
+    "Hizmet": {
+      "Genel hizmetler": {
+        "Temizlik": [
+          "Temizlik alanı",
+          "Sıklık",
+          "Malzeme kapsamı"
+        ],
+        "Diğer": [
+          "Hizmet kapsamı"
+        ],
+        "Güvenlik": [
+          "Personel sayısı",
+          "Hizmet süresi"
+        ]
+      },
+      "Nakliye": {
+        "Yük taşıma": [
+          "Çıkış",
+          "Varış",
+          "Yük ağırlığı"
+        ]
+      },
+      "Bakım": {
+        "Periyodik bakım": [
+          "Cihaz türü",
+          "Bakım sıklığı"
+        ],
+        "Asansör": [
+          "Cihaz sayısı",
+          "Bakım sıklığı"
+        ],
+        "Araç": [
+          "Araç türü",
+          "Bakım kapsamı"
+        ],
+        "Tıbbi cihaz": [
+          "Cihaz türü",
+          "Bakım kapsamı"
+        ]
+      },
+      "Ulaşım": {
+        "Personel taşıma": [
+          "Güzergâh",
+          "Araç kapasitesi"
+        ]
+      },
+      "Yemek": {
+        "Toplu yemek": [
+          "Öğün sayısı",
+          "Hizmet süresi"
+        ]
+      }
+    },
+    "Yapım": {
+      "İnşaat": {
+        "Onarım": [
+          "Metraj",
+          "Uygulama kapsamı",
+          "Malzeme"
+        ],
+        "Diğer": [
+          "İşin kapsamı"
+        ]
+      }
+    },
+    "Danışmanlık": {
+      "Uzmanlık": {
+        "Teknik danışmanlık": [
+          "Beklenen çıktı",
+          "Uzmanlık alanı",
+          "Süre"
+        ],
+        "Diğer": [
+          "Uzmanlık alanı"
+        ]
+      }
+    }
+  },
+  "birimler": [
+    "adet",
+    "koli",
+    "paket",
+    "top",
+    "kg",
+    "m²",
+    "m³",
+    "litre",
+    "saat",
+    "gün",
+    "ay",
+    "iş",
+    "parti",
+    "kalem",
+    "kısım",
+    "grup",
+    "araç",
+    "asansör",
+    "cihaz",
+    "otobüs",
+    "makine",
+    "kamyon",
+    "hektar"
+  ]
+}

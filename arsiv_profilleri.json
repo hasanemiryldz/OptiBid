@@ -1,0 +1,18 @@
+{
+  "kalem_eslesmeleri": [
+    {
+      "urun_deseni": "(?:^|[^a-z])(?:fotokopi|kagit)",
+      "tur": "Mal",
+      "kategori": ["Kırtasiye", "Kâğıt"],
+      "teknik_alanlari": {
+        "Gramaj (g/m²)": "gramaj_g_m2",
+        "Paketteki yaprak sayısı": "pakette_yaprak",
+        "Kolideki paket sayısı": "kolide_paket",
+        "Boyut": "boyut_mm"
+      },
+      "deger_eslemeleri": {
+        "Boyut": {"210x297": "A4", "297x420": "A3", "148x210": "A5"}
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>OptiBid ihale ajanı</title>
+<link rel="icon" type="image/png" sizes="32x32" href="/static/brand/ob-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/static/brand/ob-192.png">
+<link rel="stylesheet" href="/static/brand/renkler.css"><link rel="stylesheet" href="/tasarim.css"><link rel="stylesheet" href="/calisma-v6.css"><link rel="stylesheet" href="/calisma-v10.css">
+<link rel="stylesheet" href="/calisma-v20.css">
+</head>
+<body>
+<header class="mobile-mast"><img src="/static/brand/ob.webp" alt="OptiBid OB"><span>OptiBid</span><button id="history-toggle" type="button" aria-controls="history" aria-expanded="false">Kayıtlar</button></header>
+<aside id="history" aria-label="Önceki kayıtlar"></aside>
+<button id="history-shade" type="button" aria-label="Kayıt panelini kapat"></button>
+<main>
+<nav aria-label="Uygulama ayarları" class="settings-nav"><button type="button" id="open-settings">Ayarlar</button></nav>
+<dialog id="settings-dialog" aria-labelledby="settings-title">
+ <h2 id="settings-title">Ollama ayarları</h2>
+ <form>
+  <label>Yerel Ollama modeli<select name="model" required></select></label>
+  <p role="status"></p>
+  <button type="submit" class="primary">Modeli kaydet</button>
+  <button type="button" data-close>Kapat</button>
+ </form>
+</dialog>
+<div id="app"></div><p id="notice" role="status"></p></main><div id="history-status" role="status"></div>
+<aside id="assistant-host" aria-label="OptiBid asistanı"></aside>
+<script>
+if(location.protocol==='file:'){
+ document.querySelector('#app').innerHTML='<h1>OptiBid ihale ajanı</h1><p>Proje klasöründeki Baslat.bat dosyasını çalıştırın. Yerel sunucu hazır olunca tarayıcı açılır.</p>';
+}else{
+ const script=document.createElement('script');script.type='module';script.src='/app.js';
+ script.onerror=()=>document.querySelector('#notice').textContent='OptiBid yüklenemedi. Sayfayı yenileyin.';
+ document.body.append(script);
+}
+</script></body></html>

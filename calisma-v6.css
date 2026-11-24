@@ -1,0 +1,68 @@
+@media screen {
+ :root{--bg:#090b0f;--surface:#11151c;--raised:#181e28;--line:#29313d;--text:#edf1f7;--muted:#9ca9ba;--gold:#d4af37;--display:'Segoe UI',system-ui,sans-serif;--body:'Segoe UI',system-ui,sans-serif}
+ body{grid-template-columns:218px minmax(0,1fr);border:0}
+ #history{background:var(--surface);border-color:var(--line);padding:20px 16px}
+ #history .primary,.primary{background:var(--gold);color:#191409;border:1px solid var(--gold)}
+ #history .history-open[aria-current=true]{background:var(--raised);border-left-color:var(--gold)}
+ main{width:min(100% - 44px,1500px);margin:30px auto 48px}
+ h1,h2,h3{font-weight:650;letter-spacing:-.025em}
+ h1{font-size:clamp(27px,4vw,46px);text-wrap:wrap}
+ button,input,select,textarea{border:1px solid var(--line);background:var(--surface);color:var(--text);border-radius:12px}
+ textarea{width:100%;font:inherit;padding:12px;resize:vertical}
+ :focus-visible{outline:2px solid var(--gold)}
+ .v6-home{display:grid;gap:26px}
+ .v6-home h1{margin:0}
+ .v6-home #new{display:flex;flex-wrap:wrap;gap:10px;border:0;padding:0}
+ .v6-home #new button{margin:0}
+ .v6-home #new details{width:100%;margin-top:22px;border-top:1px solid var(--line)}
+ .v6-home form,.v6-controls{display:flex;align-items:start;gap:8px;flex-wrap:wrap}
+ .v6-home form input{flex:1;min-width:150px}
+ .v6-home li{padding:9px 0;border-bottom:1px solid var(--line)}
+ #app.v6-wizard{max-width:780px}
+ .v6-wizard section{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:clamp(16px,4vw,38px);margin-top:15px}
+ .v6-wizard progress{margin-top:12px;display:block}
+ .document-mast{grid-template-columns:minmax(0,1fr) auto;margin-bottom:12px}
+ .document-mast .report-logo{display:none}
+ .document-mast h1{font-size:clamp(26px,3.4vw,41px)}
+ .v6-grid{display:grid;grid-template-columns:minmax(0,1fr) 365px;gap:20px;align-items:start}
+ .v6-grid>*{min-width:0}
+ .decision{margin:0 0 24px;background:var(--surface);border-radius:16px}
+ .estimate{font-size:clamp(32px,5vw,65px);color:var(--text);font-weight:650}
+ .band-track{background:var(--gold);animation:none}
+ .report-part{overflow:auto}
+ .v6-assistant{padding:0 16px 16px;background:var(--surface);border:1px solid var(--line);border-radius:16px;overflow-wrap:anywhere}
+ .v6-assistant summary{font-weight:650}
+ .v6-assistant form{display:grid;gap:8px;margin-top:10px}
+ .v6-assistant button{margin:3px 4px 3px 0}
+ .v6-assistant dl{display:grid;grid-template-columns:1fr auto;gap:6px;margin:14px 0;border-top:1px solid var(--line);padding-top:12px}
+ .v6-assistant dd{margin:0;text-align:right}
+ .v6-assistant-list{overflow:auto}
+ @media(max-width:1279px){.v6-grid{grid-template-columns:minmax(0,1fr)}.v6-assistant{grid-row:1}}
+ @media(max-width:760px){body{display:block}main{width:calc(100% - 28px);margin-top:20px}.document-mast>div{grid-row:1;grid-column:1}.v6-grid{gap:12px}}
+}
+@media print {
+ .v6-assistant,.v6-controls{display:none!important}
+ #app .v6-print-scenarios:not(:empty){display:block;border-top:1px solid var(--line);break-inside:avoid}
+}
+@media screen{.v6-print-scenarios{display:none}}
+@media screen {
+ .v6-home #new .primary{background:var(--gold);color:#191409;border-color:var(--gold)}
+ .v6-pool-summary{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;max-width:960px}
+ .v6-pool-summary button{display:grid;text-align:left;gap:4px;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:16px}
+ .v6-pool-summary strong{font-size:clamp(23px,3vw,38px);line-height:1.2}
+ #veri-havuzu li small{display:block;color:var(--muted)}
+ .v6-pool-summary span{color:var(--muted);font-size:.875rem}
+ .v6-print-source{display:none}
+ .chart-point{fill:var(--gold)}.chart-median{stroke:var(--gold)}.chart-band{fill:var(--gold);opacity:.13}
+ @media(max-width:520px){.v6-pool-summary{grid-template-columns:1fr}.v6-pool-summary button{grid-template-columns:74px 1fr;align-items:center}}
+}
+@media print {
+ .v6-grid{display:block}
+ .v6-grid table tr[hidden]{display:table-row!important}
+ .v6-grid table td details{display:none}
+ .v6-grid table .v6-print-source{overflow-wrap:anywhere;display:block}
+}
+@media screen {
+ #app button.primary{background:var(--gold);color:#191409;border:1px solid var(--gold)}
+ #history .history-open[aria-current=true]{border-image:none}
+}

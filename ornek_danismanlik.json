@@ -1,0 +1,37 @@
+{
+  "id": "ornek",
+  "rev": 0,
+  "sema_surumu": "1",
+  "adim": 0,
+  "tamam": false,
+  "ihale_turu": "Danışmanlık",
+  "kategori": [
+    "Uzmanlık",
+    "Teknik danışmanlık"
+  ],
+  "kalemler": [
+    {
+      "id": "ornek-kalem",
+      "ad": "Süreç iyileştirme danışmanlığı",
+      "miktar": "3",
+      "birim": "ay",
+      "teknik": {
+        "Beklenen çıktı": "Mevcut durum ve iyileştirme yol haritası",
+        "Uzmanlık alanı": "Üretim süreçleri",
+        "Süre": "90"
+      }
+    }
+  ],
+  "teknik_sartlar": [],
+  "teslimat": {
+    "yer": "İdarenin çalışma alanı",
+    "sure": "90",
+    "gun_turu": "Takvim günü",
+    "baslangic": "Sözleşme imzası"
+  },
+  "teklifler": [],
+  "ornek_veri": true,
+  "ek_bilgiler": {
+    "varsayim": "Sunum için hazırlanmış örnek girdiler. Gerçek ihale veya teklif değildir."
+  }
+}

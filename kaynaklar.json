@@ -1,0 +1,226 @@
+[
+  {
+    "kategori": "mobilya",
+    "ikn": "2025/836834",
+    "url": "https://hatay.ktb.gov.tr/TR-398271/hatay-iskenderun-ilce-halk-kutuphanesi-tefrise-yonelik-.html"
+  },
+  {
+    "kategori": "temizlik malzemesi",
+    "ikn": "2025/119997",
+    "url": "https://baglar.meb.gov.tr/www/bagcilar-kiz-mesleki-ve-teknik-anadolu-lisesi-temizlik-malzemesi-alim-ilani/icerik/10808"
+  },
+  {
+    "kategori": "elektrik malzemesi",
+    "ikn": "2025/1115963",
+    "url": "https://www.buski.gov.tr/files/tenders/688a0ad132b5b.pdf"
+  },
+  {
+    "kategori": "yapı malzemesi",
+    "ikn": "2025/1255239",
+    "url": "https://diski.gov.tr/ihale/2025-yili-yapi-malzemeleri-alim-isi/"
+  },
+  {
+    "kategori": "nakliye",
+    "ikn": "2025/2477931",
+    "url": "https://ankarasehir.saglik.gov.tr/TR-1412285/2026-yili-nakliye-hizmet-ihalesi-26012026---saat1030.html"
+  },
+  {
+    "kategori": "danışmanlık",
+    "ikn": "2025/497701",
+    "url": "https://www.ogm.gov.tr/amasyaobm/duyurular-sitesi/Documents/kargi-orman-isletme-mudurlugu-2025-yili-tum-orman-isletme-sefliklerinde-mesaha-yapilmasi/Karg%C4%B1%20O%C4%B0M%20%C5%9Eefliklerde%20Mesaha%20Yap%C4%B1lmas%C4%B1%20%C4%B0%C5%9Fi.pdf"
+  },
+  {
+    "kategori": "bilişim",
+    "ikn": "2025/949720",
+    "url": "https://www.buski.gov.tr/files/tenders/6889ad6657319.pdf"
+  },
+  {
+    "kategori": "bakım",
+    "ikn": "2025/281497",
+    "url": "https://ankarasehir.saglik.gov.tr/TR-1265240/2025-yili-ford-marka-resmi-araclarin-yillik-tamir-bakim-ve-onarim-hizmet-ihalesi-26032025---saat-1030.html"
+  },
+  {
+    "ikn": "2025/723250",
+    "kategori": "kırtasiye",
+    "kategori_yolu": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "tur": "Mal",
+    "tarih": "2025-06-20",
+    "miktar": 18000,
+    "birim": "paket",
+    "fiyat": "1727100",
+    "para": "TRY",
+    "url": "https://ekapveri.com/ihale/ekap-2025-723250/",
+    "kalite": "Teknik şartname veya sonuç teyidi bekliyor"
+  },
+  {
+    "ikn": "2025/544768",
+    "kategori": "kırtasiye",
+    "kategori_yolu": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "tur": "Mal",
+    "tarih": "2025-05-23",
+    "miktar": 10000,
+    "birim": "top",
+    "fiyat": "989500",
+    "para": "TRY",
+    "url": "https://ekapveri.com/ihale/ekap-2025-544768/",
+    "kalite": "Teknik şartname veya sonuç teyidi bekliyor"
+  },
+  {
+    "ikn": "2025/498945",
+    "kategori": "kırtasiye",
+    "kategori_yolu": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "tur": "Mal",
+    "tarih": "2025-04-11",
+    "miktar": 2100,
+    "birim": "top",
+    "fiyat": "262500",
+    "para": "TRY",
+    "url": "https://ekapveri.com/ihale/ekap-2025-498945/",
+    "kalite": "Teknik şartname veya sonuç teyidi bekliyor"
+  },
+  {
+    "ikn": "2026/1905664",
+    "kategori": "kırtasiye",
+    "kategori_yolu": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "tur": "Mal",
+    "tarih": "2026-10-14",
+    "miktar": null,
+    "birim": null,
+    "fiyat": "2798712",
+    "para": "TRY",
+    "url": "https://ihale.diyosis.com/ihale/2026-1905664-a4-fotokopi-kagidi-80g-m2",
+    "kalite": "Teknik şartname veya sonuç teyidi bekliyor"
+  },
+  {
+    "ikn": "2025/735164",
+    "kategori": "kırtasiye",
+    "kategori_yolu": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "tur": "Mal",
+    "tarih": "2025-06-05",
+    "miktar": null,
+    "birim": null,
+    "fiyat": "2697000",
+    "para": "TRY",
+    "url": "https://ihaledetay.com/emniyet-genel-mudurlugu-ankara-il-emniyet-mudurlugu-1202-ihaleleri",
+    "kalite": "Teknik şartname veya sonuç teyidi bekliyor"
+  },
+  {
+    "ikn": "2026/1502796",
+    "kategori": "kırtasiye",
+    "kategori_yolu": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "tur": "Mal",
+    "tarih": "2026-08-28",
+    "miktar": 6000,
+    "birim": "top",
+    "fiyat": "768000",
+    "para": "TRY",
+    "url": "https://ihale.diyosis.com/ihale/2026-1502796-a4-kagidi-fotokopi",
+    "kalite": "Gramaj ve top başına 500 yaprak teyidi eksik"
+  },
+  {
+    "ikn": "2025/206331",
+    "kategori": "kırtasiye",
+    "kategori_yolu": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "tur": "Mal",
+    "tarih": "2025-03-10",
+    "miktar": 50000,
+    "birim": "paket",
+    "fiyat": "4443500",
+    "para": "TRY",
+    "url": "https://ekapveri.com/ihale/ekap-2025-206331/",
+    "kalite": "Gramaj ve paket başına 500 yaprak teyidi eksik"
+  },
+  {
+    "ikn": "2024/1757886",
+    "kategori": "kırtasiye",
+    "kategori_yolu": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "tur": "Mal",
+    "tarih": "2024-12-17",
+    "miktar": 8400,
+    "birim": "paket",
+    "fiyat": "882000",
+    "para": "TRY",
+    "url": "https://ihaledetay.com/okas/30197643/sayfa/8?harf=A",
+    "kalite": "Gramaj ve paket başına 500 yaprak teyidi eksik"
+  },
+  {
+    "ikn": "2026/2061764",
+    "kategori": "kırtasiye",
+    "kategori_yolu": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "tur": "Mal",
+    "tarih": "2026-11-16",
+    "miktar": 70000,
+    "birim": "top",
+    "fiyat": null,
+    "para": "TRY",
+    "url": "https://ekapveri.com/cpv/30197643/",
+    "kalite": "Sözleşme bedeli henüz yayımlanmadı"
+  },
+  {
+    "ikn": "2024/1635303",
+    "kategori": "kırtasiye",
+    "kategori_yolu": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "tur": "Mal",
+    "tarih": "2024-12-10",
+    "miktar": 11000,
+    "birim": "top",
+    "fiyat": "908600",
+    "para": "TRY",
+    "url": "https://ekapveri.com/ihale/ekap-2024-1635303/",
+    "kalite": "EKAP ilan kopyasında ürün doğrulandı"
+  },
+  {
+    "ikn": "2025/2090270",
+    "kategori": "kırtasiye",
+    "kategori_yolu": [
+      "Kırtasiye",
+      "Kâğıt"
+    ],
+    "tur": "Mal",
+    "tarih": "2025-11-26",
+    "miktar": 26000,
+    "birim": "paket",
+    "fiyat": "2563600",
+    "para": "TRY",
+    "url": "https://www.ihaletakip.com.tr/ihale/a4-fotokopi-kagidi-80g-m2/4717990/",
+    "kalite": "İdari şartname madde 2.1 ve sonuç ilanı kopyası",
+    "sonuc_url": "https://www.ihaledetay.com/yargitay-baskanligi-genel-sekreterlik-ihaleleri",
+    "tarih_notu": "Şartname 26 Kasım, portal özeti 27 Kasım. İki tarih de aynı C17 ayına düşüyor.",
+    "teknik": {
+      "Boyut": "A4",
+      "Paketteki yaprak sayısı": "500",
+      "Gramaj (g/m²)": "80"
+    },
+    "kdv": "belirsiz"
+  }
+]

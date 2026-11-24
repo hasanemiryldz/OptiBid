@@ -1,0 +1,20 @@
+{
+  "surum": "1",
+  "saglayici": "auto",
+  "sonuc_sayisi": 10,
+  "sorgu_sayisi": 2,
+  "zaman_asimi_saniye": 5,
+  "kategori_sorgulari": {
+    "Mal/Kırtasiye/Kâğıt": "A4 fotokopi kağıdı",
+    "Mal/Bilişim/Bilgisayar": "Bilgisayar alımı",
+    "Hizmet/Genel hizmetler/Temizlik": "Genel temizlik hizmeti",
+    "Hizmet/Ulaşım/Personel taşıma": "Personel taşıma hizmeti",
+    "Yapım/İnşaat/Onarım": "Bina onarım işi",
+    "Danışmanlık/Uzmanlık/Teknik danışmanlık": "Teknik danışmanlık hizmeti"
+  },
+  "ekap_alanlari": [
+    "ekap.kik.gov.tr",
+    "ekapv2.kik.gov.tr"
+  ],
+  "not": "Auto: sunucuda BRAVE_SEARCH_API_KEY varsa Brave; aksi halde Bing RSS. Arama sonuçları fiyat teyidi değildir."
+}

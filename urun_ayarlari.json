@@ -1,0 +1,11 @@
+{
+  "kdv_orani_yuzde": "20",
+  "endeks_ufku_ay": 18,
+  "mcp": {
+    "ilk_zaman_asimi_sn": 12,
+    "sonraki_zaman_asimi_sn": 5,
+    "yeniden_deneme": 1,
+    "kesici_hata_sayisi": 2,
+    "kesici_bekleme_sn": 15
+  }
+}

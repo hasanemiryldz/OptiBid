@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:optibid:ihale:1.1",
+  "title": "OptiBid standart ihale çalışma belgesi",
+  "type": "object",
+  "required": [
+    "standart_surumu",
+    "ihale_turu",
+    "kategori",
+    "kalemler",
+    "teslimat"
+  ],
+  "properties": {
+    "standart_surumu": {
+      "const": "optibid-1.1"
+    },
+    "ihale_turu": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Katalogdaki ihale türü; taslakta boş olabilir."
+    },
+    "kategori": {
+      "type": "array",
+      "items": {
+        "type": [
+          "string",
+          "null"
+        ]
+      }
+    },
+    "kalemler": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "ad",
+          "miktar",
+          "birim"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "ad": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "miktar": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "birim": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "ham_birim": {},
+          "teknik": {
+            "type": "object"
+          },
+          "teknik_sartlar": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "alan",
+                "deger",
+                "dayanak",
+                "durum"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "teslimat": {
+      "type": "object"
+    },
+    "teklifler": {
+      "type": "array"
+    },
+    "standartlastirma": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": true
+}
